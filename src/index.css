@@ -1,2 +1,8 @@
 
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+p, h1, h2, a, div {
+     font-family: "Press Start 2P", system-ui;
+
+  font-style: normal;
+}
